@@ -24,14 +24,13 @@ const Works = () => {
           </span>
           <span>Brands & Clients</span>
           <spane>
-            Lorem ispum is simpley dummy text of printing of printing Lorem
+            Strux Inc 
             <br />
-            ispum is simpley dummy text of printingLorem ispum is simpley dummy
+            Best Creative Agency in Mumbai
             text
             <br />
-            y dummy text of printingLorem
+            Mumbai-based Integrated Creative Agency providing unique solutions for Web Design & Development, Social Media Management, 3D Design & Graphics.
             <br />
-            ispum is simpley dummy text of printing
           </spane>
           <Link to="contact" smooth={true} spy={true}>
             <button className="button s-button">Hire Me</button>
