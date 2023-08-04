@@ -24,15 +24,14 @@ const Works = () => {
           </span>
           <span>Brands & Clients</span>
           <spane>
-          Strux Inc 
-            <br />
-            
-          Best Creative Agency in Mumbai
-            <br />
-            Mumbai-based Integrated Creative Agency providing unique solutions for Web Design & Development, Social Media Management, 3D Design & Graphics.
-
-            <br />
            
+            <br />
+            ispum is simpley dummy text of printingLorem ispum is simpley dummy
+            text
+            <br />
+            y dummy text of printingLorem
+            <br />
+            ispum is simpley dummy text of printing
           </spane>
           <Link to="contact" smooth={true} spy={true}>
             <button className="button s-button">Hire Me</button>
