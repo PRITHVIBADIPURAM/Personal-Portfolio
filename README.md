@@ -13,5 +13,20 @@
  
 
  <h1>Preview of UI😍</h1>
+ <h2>Home Page</h2>
 <img src="preview1.png" >
+<h2>Home Page in Darkmode</h2>
+<img src="preview2.png" >
+<h2>About me </h2>
+<img src="preview3.png" >
+<h2>Work Experience</h2>
+<img src="preview4.png" >
+<h2>My Projects</h2>
+<img src="preview5.png" >
+<h2>Contact me </h2>
+<img src="preview6.png" >
+<h2>Footer</h2>
+<img src="preview7.png" >
+
+
 
