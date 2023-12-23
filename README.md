@@ -13,6 +13,5 @@
  
 
  <h1>Preview of UI😍</h1>
- <img> </img>
-
+<img src="preview1.png" >
 
